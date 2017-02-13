@@ -1,0 +1,26 @@
+{
+  "name": "concat-elm-files",
+  "version": "1.0.0",
+  "description": "Join all the files in your project into a single file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeue56/concat-elm-files.git"
+  },
+  "keywords": [
+    "elm"
+  ],
+  "author": "eeue56",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eeue56/concat-elm-files/issues"
+  },
+  "homepage": "https://github.com/eeue56/concat-elm-files#readme",
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "glob": "^7.1.1"
+  }
+}
